@@ -1,2 +1,3 @@
-CMD timer /n
+CMD timer
+
 the timer work in cmd
